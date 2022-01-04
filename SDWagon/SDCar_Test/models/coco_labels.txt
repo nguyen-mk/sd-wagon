@@ -1,0 +1,7 @@
+0  bicycle
+1  person
+2  car
+3  motorcycle
+4  airplane
+5  bus
+
